@@ -1,7 +1,7 @@
-# ZenithFit - Fitness App Landing Page
+# RunWage - Fitness App Landing Page
 
 ## Overview
-This is a responsive, animated landing page for a fictional fitness application called "ZenithFit". The page showcases the app's features, testimonials, pricing plans, and includes a call-to-action section to encourage sign-ups.
+This is a responsive, animated landing page for a fictional fitness application called "RunWage". The page showcases the app's features, testimonials, pricing plans, and includes a call-to-action section to encourage sign-ups.
 
 ## Features
 
